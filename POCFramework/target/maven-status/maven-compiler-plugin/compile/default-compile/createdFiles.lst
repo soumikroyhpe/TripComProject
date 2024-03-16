@@ -1,0 +1,8 @@
+com\poc\reusable\GenericFunction.class
+com\poc\listerner\ListenerClass.class
+com\poc\reports\ExtentTestManager.class
+com\poc\utils\ExcelUtils.class
+com\poc\utils\FolderChecking.class
+com\poc\baseClass\BaseTest.class
+com\poc\reports\ExtentManager.class
+com\poc\utils\Screenshot.class

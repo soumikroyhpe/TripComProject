@@ -5,7 +5,7 @@
   <listeners>
   <listener class-name="com.poc.listerner.ListenerClass" />
   </listeners>
-  <test name="FB_LoginTest">
+  <test name="TripComTC">
   
     <classes>
       <class name="com.poc.testcaseClass.TripComTC"/>
